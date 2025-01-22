@@ -55,3 +55,7 @@ ul#rainbow li:nth-child(7){
 ul#rainbow li:nth-child(7):hover{
     background:black;
 }
+p#thank_you{
+    font:normal 30px 'arial';
+    text-align:center;
+}
