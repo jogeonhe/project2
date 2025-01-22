@@ -16,21 +16,42 @@ ul#rainbow li{
 ul#rainbow li:first-child{
     background:red;
 }
+ul#rainbow li:first-child:hover{
+    background: purple;
+}
 ul#rainbow li:nth-child(2){
     background:orange;
+}
+ul#rainbow li:nth-child(2):hover{
+    background: green;
 }
 ul#rainbow li:nth-child(3){
     background:yellow;
 }
+ul#rainbow li:nth-child(3):hover{
+    background:palegreen;
+}
 ul#rainbow li:nth-child(4){
     background:green;
+}
+ul#rainbow li:nth-child(4):hover{
+    background:thistle;
 }
 ul#rainbow li:nth-child(5){
     background:blue;
 }
+ul#rainbow li:nth-child(5):hover{
+    background:red;
+}
 ul#rainbow li:nth-child(6){
     background:darkblue;
 }
+ul#rainbow li:nth-child(6):hover{
+    background:turquoise;
+}
 ul#rainbow li:nth-child(7){
     background:purple;
+}
+ul#rainbow li:nth-child(7):hover{
+    background:black;
 }
